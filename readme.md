@@ -1,4 +1,5 @@
 # JavaScript course resources
 
-- [Hello world](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/hello-world?file=/index.html)
-- [Variables](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/variables?file=/variables.js)
+- [Hello world](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/01-hello-world?file=/index.html)
+- [Variables](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/02-variables?file=/variables.js)
+- [Types](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/03-types?file=/types.js)

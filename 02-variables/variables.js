@@ -7,3 +7,5 @@
 // naming
 
 // reserved keywords
+
+// scope

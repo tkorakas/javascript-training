@@ -18,7 +18,10 @@ const options = {
 
 // Arrays
 
-const h
+const delivery = {
+  name: "Thanos",
+  items: ["Item 1", "Item 2"],
+};
 
 // Function as value
 const person = {
@@ -26,5 +29,3 @@ const person = {
     console.log("Hello world");
   },
 };
-
-// Accessing objects

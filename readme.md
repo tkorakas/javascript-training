@@ -5,3 +5,4 @@
 - [Types](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/03-types?file=/types.js)
 - [Truthy/Falsey values](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/04-truthy-falsey-values?file=/truthyFalseyValues.js)
 - [Equality](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/05-equality?file=/equality.js)
+- [Conditions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/06-conditions?file=/conditions.js)

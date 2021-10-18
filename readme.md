@@ -12,3 +12,4 @@
 ## Exercises
 
 - [Conditions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercices/conditions?file=/condition-exercise.js)
+- [Loops](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercices/loops?file=/loop-exercise.js)

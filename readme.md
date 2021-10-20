@@ -9,6 +9,7 @@
 - [Arrays](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/07-arrays?file=/arrays.js)
 - [Loops](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/08-loops?file=/forLoop.js)
 - [Array-Methods](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/07-arrays?file=/arrayMethods.js)
+- [Destructuring-Spread/rest](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/09-destructuring-spread-rest?file=/destructuring.js)
 
 ## Exercises
 

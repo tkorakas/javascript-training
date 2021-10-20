@@ -21,21 +21,3 @@ function f() {
 let a, b;
 [a, b] = f();
 console.log("Array destructuring (4) :", a);
-
-// Object destructuring
-const myObj = {
-  name: "Tasos",
-  age: 33,
-};
-
-const { name, age } = myObj;
-// is equivalent to:
-// const name = myObj.name;
-// const age = myObj.age;
-
-console.log("Object destructuring", name, age);
-
-// aliasing
-const { name: myName } = myObj;
-
-console.log("Object destructuring (2):", myName);

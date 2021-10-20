@@ -8,6 +8,7 @@
 - [Conditions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/06-conditions?file=/conditions.js)
 - [Arrays](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/07-arrays?file=/arrays.js)
 - [Loops](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/08-loops?file=/forLoop.js)
+- [Array-Methods](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/07-arrays?file=/arrayMethods.js)
 
 ## Exercises
 

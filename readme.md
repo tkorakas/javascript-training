@@ -18,6 +18,7 @@
 
 - [Conditions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercices/conditions?file=/condition-exercise.js)
 - [Loops](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/loops?file=/loop-exercise.js)
+- [Array methods](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/array-methods?file=/array-methods-exercise.js)
 - [Objects](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/objects?file=/objects-exercise.js)
 - [Functions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/functions?file=/functions-exercise.js)
 - [Prototypes](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/prototype-chain?file=/prototype-chain-exercise.js)

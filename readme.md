@@ -10,8 +10,14 @@
 - [Loops](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/08-loops?file=/forLoop.js)
 - [Array-Methods](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/07-arrays?file=/arrayMethods.js)
 - [Destructuring-Spread/rest](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/09-destructuring-spread-rest?file=/destructuring.js)
+- [Objects](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/10-objects?file=/object-types.js)
+- [Object methods](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/11-object-methods?file=/object-methods.js)
+- [Functions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/12-functions?file=/declerations.js)
 
 ## Exercises
 
 - [Conditions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercices/conditions?file=/condition-exercise.js)
 - [Loops](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/loops?file=/loop-exercise.js)
+- [Objects](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/objects?file=/objects-exercise.js)
+- [Functions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/functions?file=/functions-exercise.js)
+- [Prototypes](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/prototype-chain?file=/prototype-chain-exercise.js)

@@ -15,6 +15,6 @@ programming.difficulty = 7;
 programming.isFun = true;
 
 // Using a loop, iterate through the languages array and console.log all of the languages.
-// for (let i = 0; i < programming.languages.length; i++) {
-//   console.log(programming.languages[i]);
-// }
+for (let i = 0; i < programming.languages.length; i++) {
+  console.log(programming.languages[i]);
+}

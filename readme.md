@@ -14,6 +14,8 @@
 - [Object methods](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/11-object-methods?file=/object-methods.js)
 - [Functions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/12-functions?file=/declerations.js)
 - [Prototypes](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/13-prototypes?file=/proto-chain.js)
+- [Callbacks](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/14-callbacks?file=/callbacks.js)
+- [Timers](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/15-timers?file=/setTimeout.js)
 
 ## Exercises
 
@@ -23,3 +25,4 @@
 - [Objects](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/objects?file=/objects-exercise.js)
 - [Functions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/functions?file=/functions-exercise.js)
 - [Prototypes](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/prototype-chain?file=/prototype-chain-exercise.js)
+- [Timers](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/timers?file=/setTimeout.js)

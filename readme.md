@@ -13,6 +13,7 @@
 - [Objects](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/10-objects?file=/object-types.js)
 - [Object methods](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/11-object-methods?file=/object-methods.js)
 - [Functions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/12-functions?file=/declerations.js)
+- [Prototypes](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/13-prototypes?file=/proto-chain.js)
 
 ## Exercises
 

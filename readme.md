@@ -16,6 +16,7 @@
 - [Prototypes](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/13-prototypes?file=/proto-chain.js)
 - [Callbacks](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/14-callbacks?file=/callbacks.js)
 - [Timers](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/15-timers?file=/setTimeout.js)
+- [Promises](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/15-promises?file=/promises.js)
 
 ## Exercises
 

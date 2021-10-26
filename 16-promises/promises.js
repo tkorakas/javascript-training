@@ -76,9 +76,41 @@ wait(1000)
     console.error(error);
   });
 
-// Promise.all
+// async/await
+async function main() {
+  await wait(1000);
+  console.log("Hello after 1 second");
+  await wait(1000);
+  console.log("Hello after 2 second");
+}
+main();
 
-// Promise.allSettled
+// catch errors
+const waitWithError = (delay) => {
+  return new Promise((resolve, reject) => {
+    setTimeout(reject, delay, "Error");
+  });
+};
+async function error() {
+  try {
+    await waitWithError(1000);
+    console.log("Hello after 1 second");
+    await waitWithError(1000);
+    console.log("Hello after 2 second");
+  } catch (error) {
+    console.error(error);
+  }
+}
+error();
+
+// fetch
+fetch("https://jsonplaceholder.typicode.com/posts")
+  .then((response) => {
+    return response.json();
+  })
+  .then((data) => {
+    console.log(data);
+  });
 
 // References
 // - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise

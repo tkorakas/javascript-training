@@ -18,6 +18,8 @@
 - [Timers](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/15-timers?file=/setTimeout.js)
 - [Event loop](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/17-event-loop?file=/event-loop.js)
 - [Promises](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/16-promises?file=/promises.js)
+- [Hoisting](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/18-hoisting?file=/hoisting.js)
+- [Scope](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/19-scope?file=/scope.js)
 
 ## Exercises
 

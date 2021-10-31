@@ -20,6 +20,8 @@
 - [Promises](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/16-promises?file=/promises.js)
 - [Hoisting](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/18-hoisting?file=/hoisting.js)
 - [Scope](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/19-scope?file=/scope.js)
+- [Document](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/20-html/document?file=/document.js)
+- [Events](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/20-html/events?file=/document.js)
 
 ## Exercises
 

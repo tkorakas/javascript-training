@@ -21,7 +21,7 @@
 - [Hoisting](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/18-hoisting?file=/hoisting.js)
 - [Scope](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/19-scope?file=/scope.js)
 - [Document](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/20-html/document?file=/document.js)
-- [Events](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/20-html/events?file=/document.js)
+- [Events](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/20-html/events?file=/events.js)
 
 ## Exercises
 
@@ -32,3 +32,4 @@
 - [Functions](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/functions?file=/functions-exercise.js)
 - [Prototypes](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/prototype-chain?file=/prototype-chain-exercise.js)
 - [Timers](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/timers?file=/setTimeout.js)
+- [Document](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/dom/document?file=/document.js)

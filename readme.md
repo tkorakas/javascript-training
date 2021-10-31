@@ -33,3 +33,4 @@
 - [Prototypes](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/prototype-chain?file=/prototype-chain-exercise.js)
 - [Timers](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/timers?file=/setTimeout.js)
 - [Document](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/dom/document?file=/document.js)
+- [Counter app](https://codesandbox.io/s/github/thanoskorakas/javascript-training/tree/master/excercises/dom/events?file=/events.js)
